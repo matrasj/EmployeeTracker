@@ -5,6 +5,8 @@ C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\EmployeeTrackerApi.runtimeconfig.json
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\EmployeeTrackerApi.dll
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\EmployeeTrackerApi.pdb
+C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -17,6 +19,7 @@ C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\EmployeeTrackerApi.csproj.CoreCompileInputs.cache
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\EmployeeTrackerApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\EmployeeTrackerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\EmployeeTrackerApi.sourcelink.json
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeTrackerApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -31,5 +34,3 @@ C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\EmployeeTrackerApi.pdb
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\EmployeeTrackerApi.genruntimeconfig.cache
 C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\obj\Debug\net8.0\ref\EmployeeTrackerApi.dll
-C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\jkobm\RiderProjects\EmployeeTrackerApi\EmployeeTrackerApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
